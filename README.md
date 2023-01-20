@@ -28,3 +28,11 @@ Do the same thing for the extension.
 - [Webui `e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e) 
 - [Extension `fb27ac9187ffa0300d13d3531b9c997f6bfbab93`](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/commit/fb27ac9187ffa0300d13d3531b9c997f6bfbab93)
 </details>
+
+## https://github.com/Interpause/auto-sd-paint-ext
+<details>
+<summary>Last tested (Click to expand)</summary>
+
+- WebUI: [AUTOMATIC1111/stable-diffusion-webui@`e33cace`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
+- Extension: [Interpause/auto-sd-paint-ext@`e35d3a4`](https://github.com/Interpause/auto-sd-paint-ext/commit/e35d3a40bb13b0b83ab78b325720d7a0f1d1b73b)
+</details>
