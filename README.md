@@ -72,3 +72,11 @@ Do the same thing for the extension.
 - WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/6c7a50d783c4e406d8597f9cf354bb8128026f6c
 - Extension: https://github.com/AlUlkesh/sd_search_model/commit/65e9b42571ffa28f3a3444a45cab30ea14a3ccac
 </details>
+
+## https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
+- Extension: [`151b795023a1d851016e498d9792d461692b3b57`](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https/commit/151b795023a1d851016e498d9792d461692b3b57)
+</details>
