@@ -20,3 +20,11 @@ Do the same thing for the extension.
 ## https://github.com/toriato/stable-diffusion-webui-wd14-tagger
 - [WebUI `9cfd10cdefc7b2966b8e42fbb0e05735967cf87b`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
 - [Extension `3b8f68acc6cd7426257bae5ea32dcff0653f44c3`](https://github.com/toriato/stable-diffusion-webui-wd14-tagger/commit/3b8f68acc6cd7426257bae5ea32dcff0653f44c3)
+
+## https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+<details>
+<summary>Tested with: (Click to expand:)</summary>
+
+- [Webui `e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e) 
+- [Extension `fb27ac9187ffa0300d13d3531b9c997f6bfbab93`](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/commit/fb27ac9187ffa0300d13d3531b9c997f6bfbab93)
+</details>
