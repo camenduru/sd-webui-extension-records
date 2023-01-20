@@ -80,3 +80,12 @@ Do the same thing for the extension.
 - WebUI: [`e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
 - Extension: [`151b795023a1d851016e498d9792d461692b3b57`](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https/commit/151b795023a1d851016e498d9792d461692b3b57)
 </details>
+
+## https://github.com/zero01101/openOutpaint-webUI-extension
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
+- Extension: [`3ebc1812ecdfd3578852dfb09532ddc53a3728a2`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/3ebc1812ecdfd3578852dfb09532ddc53a3728a2)
+- Submodule (`./app`): [`b52e3dc2ba8a09d46f499f79d613be7439a6286e`](https://github.com/zero01101/openOutpaint/commit/b52e3dc2ba8a09d46f499f79d613be7439a6286e)
+</details>
