@@ -99,3 +99,27 @@ Do the same thing for the extension.
 - WebUI: [`e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
 - Extension: [`4f6294b167885d9f3983cdab6b3cb35c15b63275`](https://github.com/kex0/batch-face-swap/commit/4f6294b167885d9f3983cdab6b3cb35c15b63275)
 </details>
+
+## https://github.com/vladmandic/sd-extension-steps-animation
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`424cefe11878c9c7d2663381441e7efe62532180`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/424cefe11878c9c7d2663381441e7efe62532180)
+- Extension: [`f20b6dd2435968ac1886d8d7111edff8e3229b6b`](https://github.com/vladmandic/sd-extension-steps-animation/commit/f20b6dd2435968ac1886d8d7111edff8e3229b6b)
+</details>
+
+## https://github.com/vladmandic/sd-extension-aesthetic-scorer
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`424cefe11878c9c7d2663381441e7efe62532180`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/424cefe11878c9c7d2663381441e7efe62532180)
+- Extension: [`8c2fcc4d492a3e62cd3c500aafe323dec48c1e4f`](https://github.com/vladmandic/sd-extension-aesthetic-scorer/commit/8c2fcc4d492a3e62cd3c500aafe323dec48c1e4f)
+</details>
+
+## https://github.com/vladmandic/sd-extension-system-info
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`424cefe11878c9c7d2663381441e7efe62532180`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/424cefe11878c9c7d2663381441e7efe62532180)
+- Extension: [`0220134e57aaf1facceaaf0fa01afe19c92bf1b6`](https://github.com/vladmandic/sd-extension-system-info/commit/0220134e57aaf1facceaaf0fa01afe19c92bf1b6)
+</details>
