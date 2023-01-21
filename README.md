@@ -89,3 +89,11 @@ Do the same thing for the extension.
 - Extension: [`3ebc1812ecdfd3578852dfb09532ddc53a3728a2`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/3ebc1812ecdfd3578852dfb09532ddc53a3728a2)
 - Submodule (`./app`): [`b52e3dc2ba8a09d46f499f79d613be7439a6286e`](https://github.com/zero01101/openOutpaint/commit/b52e3dc2ba8a09d46f499f79d613be7439a6286e)
 </details>
+
+## https://github.com/kex0/batch-face-swap
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
+- Extension: [`4f6294b167885d9f3983cdab6b3cb35c15b63275`](https://github.com/kex0/batch-face-swap/commit/4f6294b167885d9f3983cdab6b3cb35c15b63275)
+</details>
