@@ -1,3 +1,5 @@
+I've invited the extension authors listed in the index as collaborators, as well as [@Harvester62](https://github.com/Harvester62) and [@ataa](https://github.com/Harvester62) who test extensions like me. We could see if [@AUTOMATIC1111](https://github.com/AUTOMATIC1111) likes the idea of the extension index being here, I'm going to transfer ownership to him unless he wants someone else to. Collaborators keep status after transfers, but unknown what happens with those still "pending invite"
+
 # sd-webui-extension-records
 extension developers and users can submit working commit versions of webui and the extension if needed. (for archival and afk purposes)
 
