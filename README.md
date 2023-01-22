@@ -121,3 +121,11 @@ Do the same thing for the extension.
 - WebUI: [`424cefe11878c9c7d2663381441e7efe62532180`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/424cefe11878c9c7d2663381441e7efe62532180)
 - Extension: [`0220134e57aaf1facceaaf0fa01afe19c92bf1b6`](https://github.com/vladmandic/sd-extension-system-info/commit/0220134e57aaf1facceaaf0fa01afe19c92bf1b6)
 </details>
+
+## https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`0792fae078ba362a5119f56d84e3f490a88690ae`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/0792fae078ba362a5119f56d84e3f490a88690ae)
+- Extension: [`d993cc83057e6e5b2f41c26935c52d464708215a`](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor/commit/d993cc83057e6e5b2f41c26935c52d464708215a)
+</details>
