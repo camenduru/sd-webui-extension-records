@@ -91,9 +91,9 @@ Do the same thing for the extension.
   - Extension: [`d903006a96121c649a00fa0abf676eda712ae254`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/d903006a96121c649a00fa0abf676eda712ae254)
   - Submodule (`./app`): [`304da0ec9ea13f903f587dbf74370864b3d3a68e`](https://github.com/zero01101/openOutpaint/commit/304da0ec9ea13f903f587dbf74370864b3d3a68e)
 - Current
-  - WebUI: [`5c1cb9263f980641007088a37360fcab01761d37`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/5c1cb9263f980641007088a37360fcab01761d37)
-  - Extension: [`d903006a96121c649a00fa0abf676eda712ae254`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/d903006a96121c649a00fa0abf676eda712ae254)
-  - Submodule (`./app`): [`85776d86371cd8d07cf92661499da71dfa4ea53a`](https://github.com/zero01101/openOutpaint/commit/85776d86371cd8d07cf92661499da71dfa4ea53a)
+  - WebUI: [`48a15821de768fea76e66f26df83df3fddf18f4b`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/48a15821de768fea76e66f26df83df3fddf18f4b)
+  - Extension: [`1ae78c6bb3126352fb0f7f6f07bbe1b372d6c227`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/1ae78c6bb3126352fb0f7f6f07bbe1b372d6c227)
+  - Submodule (`./app`): [`bd5581fdbf3a7dbe1637ece4684a0fb18129aacd`](https://github.com/zero01101/openOutpaint/commit/bd5581fdbf3a7dbe1637ece4684a0fb18129aacd)
   </details>
 
 ## https://github.com/kex0/batch-face-swap
