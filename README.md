@@ -88,11 +88,11 @@ Do the same thing for the extension.
 - Example Rollback to Legacy HRfix
   - **_Requires `--lock-oo-submodule` commandline flag to prevent auto-updating_**
   - WebUI: [`fd4461d44c7256d56889f5b5ed9fb660a859172f`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/fd4461d44c7256d56889f5b5ed9fb660a859172f)
-  - Extension: [`7b4f84816e80d825f6b24d8199d7c46217cdcaa7`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/7b4f84816e80d825f6b24d8199d7c46217cdcaa7)
+  - Extension: [`d903006a96121c649a00fa0abf676eda712ae254`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/d903006a96121c649a00fa0abf676eda712ae254)
   - Submodule (`./app`): [`304da0ec9ea13f903f587dbf74370864b3d3a68e`](https://github.com/zero01101/openOutpaint/commit/304da0ec9ea13f903f587dbf74370864b3d3a68e)
 - Current
   - WebUI: [`5c1cb9263f980641007088a37360fcab01761d37`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/5c1cb9263f980641007088a37360fcab01761d37)
-  - Extension: [`7b4f84816e80d825f6b24d8199d7c46217cdcaa7`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/7b4f84816e80d825f6b24d8199d7c46217cdcaa7)
+  - Extension: [`d903006a96121c649a00fa0abf676eda712ae254`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/d903006a96121c649a00fa0abf676eda712ae254)
   - Submodule (`./app`): [`85776d86371cd8d07cf92661499da71dfa4ea53a`](https://github.com/zero01101/openOutpaint/commit/85776d86371cd8d07cf92661499da71dfa4ea53a)
   </details>
 
