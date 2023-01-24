@@ -88,7 +88,7 @@ Do the same thing for the extension.
 - Example Rollback to Legacy HRfix
   - **_Requires `--lock-oo-submodule` commandline flag to prevent auto-updating_**
   - WebUI: [`fd4461d44c7256d56889f5b5ed9fb660a859172f`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/fd4461d44c7256d56889f5b5ed9fb660a859172f)
-  - Extension: [`d903006a96121c649a00fa0abf676eda712ae254`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/d903006a96121c649a00fa0abf676eda712ae254)
+  - Extension: [`1ae78c6bb3126352fb0f7f6f07bbe1b372d6c227`](https://github.com/zero01101/openOutpaint-webUI-extension/commit/1ae78c6bb3126352fb0f7f6f07bbe1b372d6c227)
   - Submodule (`./app`): [`304da0ec9ea13f903f587dbf74370864b3d3a68e`](https://github.com/zero01101/openOutpaint/commit/304da0ec9ea13f903f587dbf74370864b3d3a68e)
 - Current
   - WebUI: [`48a15821de768fea76e66f26df83df3fddf18f4b`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/48a15821de768fea76e66f26df83df3fddf18f4b)
