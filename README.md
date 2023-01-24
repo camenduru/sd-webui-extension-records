@@ -151,3 +151,12 @@ Do the same thing for the extension.
 - WebUI: [`cbfb4632585415dc914aff8c44869d792fd64c24`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/cbfb4632585415dc914aff8c44869d792fd64c24)
 - Extension: [`710e02af7970b7830b6ae7073cf9e1d6f8998782`](https://github.com/aria1th/Hypernetwork-MonkeyPatch-Extension/commit/710e02af7970b7830b6ae7073cf9e1d6f8998782)
 </details>
+
+## https://github.com/WildBanjos/DiffusionDefender
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`078e16e4d33ccbd40ff3ecfbb57ffd33a2a16c47`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/078e16e4d33ccbd40ff3ecfbb57ffd33a2a16c47)
+- Earliest Tested WebUI: [`685f9631b56ff8bd43bce24ff5ce0f9a0e9af490`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/685f9631b56ff8bd43bce24ff5ce0f9a0e9af490)
+- Extension: [`665d3bd525189183ce1aa54cb53e81cdd4b859dd`](https://github.com/WildBanjos/DiffusionDefender/commit/665d3bd525189183ce1aa54cb53e81cdd4b859dd)
+</details>
