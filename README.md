@@ -166,6 +166,14 @@ Do the same thing for the extension.
 <summary>tested with: (Click to expand:)</summary>
 
 - WebUI: [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
-- Earliest Tested WebUI: [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
 - Extension: [`7a44bb12958a518433e5e2e8218b347c3802ac3f`](https://github.com/camenduru/stable-diffusion-webui-artists-to-study/commit/7a44bb12958a518433e5e2e8218b347c3802ac3f)
 </details>
+
+## https://github.com/camenduru/stable-diffusion-webui-huggingface
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
+- Extension: [`3d16082308d1606b41170d2e87af184a7eda5ecc`](https://github.com/camenduru/stable-diffusion-webui-huggingface/commit/3d16082308d1606b41170d2e87af184a7eda5ecc)
+</details>
+
