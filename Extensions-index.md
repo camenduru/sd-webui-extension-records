@@ -79,6 +79,13 @@
 			"tags": ["script", "tab"]
 		},
 		{
+			"name": "Push to Hugging Face",
+			"url": "https://github.com/camenduru/stable-diffusion-webui-huggingface",
+			"description": "Push a file or folder to your private Hugging Face folder.",
+			"added": "2022-12-10",
+			"tags": ["script", "tab"]
+		},
+		{
 			"name": "Aesthetic Image Scorer",
 			"url": "https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer",
 			"description": "Calculates aesthetic score for generated images using CLIP+MLP Aesthetic Score Predictor based on Chad Scorer",
