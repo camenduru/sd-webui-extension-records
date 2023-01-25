@@ -160,3 +160,12 @@ Do the same thing for the extension.
 - Earliest Tested WebUI: [`685f9631b56ff8bd43bce24ff5ce0f9a0e9af490`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/685f9631b56ff8bd43bce24ff5ce0f9a0e9af490)
 - Extension: [`665d3bd525189183ce1aa54cb53e81cdd4b859dd`](https://github.com/WildBanjos/DiffusionDefender/commit/665d3bd525189183ce1aa54cb53e81cdd4b859dd)
 </details>
+
+## https://github.com/camenduru/stable-diffusion-webui-artists-to-study
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
+- Earliest Tested WebUI: [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
+- Extension: [`7a44bb12958a518433e5e2e8218b347c3802ac3f`](https://github.com/camenduru/stable-diffusion-webui-artists-to-study/commit/7a44bb12958a518433e5e2e8218b347c3802ac3f)
+</details>
