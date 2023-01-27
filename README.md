@@ -100,8 +100,8 @@ Do the same thing for the extension.
 <details>
 <summary>tested with: (Click to expand:)</summary>
 
-- WebUI: [`e33cace2c2074ef342d027c1f31ffc4b3c3e877e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/e33cace2c2074ef342d027c1f31ffc4b3c3e877e)
-- Extension: [`4f6294b167885d9f3983cdab6b3cb35c15b63275`](https://github.com/kex0/batch-face-swap/commit/4f6294b167885d9f3983cdab6b3cb35c15b63275)
+- WebUI: [`7a14c8ab45da8a681792a6331d48a88dd684a0a9`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/7a14c8ab45da8a681792a6331d48a88dd684a0a9)
+- Extension: [`1accdc7c4ff4627338a1d5f5be81c096bfb7852d`](https://github.com/kex0/batch-face-swap/commit/1accdc7c4ff4627338a1d5f5be81c096bfb7852d)
 </details>
 
 ## https://github.com/vladmandic/sd-extension-steps-animation
