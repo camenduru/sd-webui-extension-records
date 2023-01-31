@@ -609,6 +609,13 @@
 			"description": "Old unmaintained localizations that used to be a part of main repository",
 			"added": "2022-11-08",
 			"tags": ["localization"]
+		},
+		{
+			"name": "Seed travel",
+			"url": "https://github.com/yownas/seed_travel",
+			"description": "Small script for AUTOMATIC1111/stable-diffusion-webui to create images that exists between seeds.",
+			"added": "2022-11-09",
+			"tags": ["localization"]
 		}
 	]
 }

@@ -177,3 +177,10 @@ Do the same thing for the extension.
 - Extension: [`3d16082308d1606b41170d2e87af184a7eda5ecc`](https://github.com/camenduru/stable-diffusion-webui-huggingface/commit/3d16082308d1606b41170d2e87af184a7eda5ecc)
 </details>
 
+## https://github.com/yownas/seed_travel
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d)
+- Extension: [`beef29d887866c46c7dd8203496b6a8abc3cc2ae`](https://github.com/yownas/seed_travel/commit/beef29d887866c46c7dd8203496b6a8abc3cc2ae)
+</details>
