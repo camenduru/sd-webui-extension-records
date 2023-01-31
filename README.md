@@ -38,7 +38,7 @@ Do the same thing for the extension.
 <summary>Last tested (Click to expand)</summary>
 
 - WebUI: [AUTOMATIC1111/stable-diffusion-webui@`c81b52f`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/c81b52ffbd6252842b3473a7aa8eb7ffc88ee7d1)
-- Extension: [Interpause/auto-sd-paint-ext@`4b8e719`](https://github.com/Interpause/auto-sd-paint-ext/commit/4b8e719c95a08815efb508cbb617d0fd92c29640)
+- Extension: [Interpause/auto-sd-paint-ext@`000363c`](https://github.com/Interpause/auto-sd-paint-ext/commit/000363cfceaa7e651d65df8f6cb6a7b0dd0d0403)
 </details>
 
 ## https://github.com/AlUlkesh/sd_dpmpp_sde_no_random
