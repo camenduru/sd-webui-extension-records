@@ -616,6 +616,13 @@
 			"description": "Small script for AUTOMATIC1111/stable-diffusion-webui to create images that exists between seeds.",
 			"added": "2022-11-09",
 			"tags": ["localization"]
+		},
+		{
+			"name": "Shift attention",
+			"url": "https://github.com/yownas/shift-attention",
+			"description": "Generate a sequence of images shifting attention in the prompt. This script enables you to give a range to the weight of tokens in a prompt and then generate a sequence of images stepping from the first one to the second.",
+			"added": "2022-11-09",
+			"tags": ["localization"]
 		}
 	]
 }

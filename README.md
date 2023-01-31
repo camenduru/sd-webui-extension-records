@@ -184,3 +184,11 @@ Do the same thing for the extension.
 - WebUI: [`2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d)
 - Extension: [`beef29d887866c46c7dd8203496b6a8abc3cc2ae`](https://github.com/yownas/seed_travel/commit/beef29d887866c46c7dd8203496b6a8abc3cc2ae)
 </details>
+
+## https://github.com/yownas/shift-attention
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d)
+- Extension: [`beef29d887866c46c7dd8203496b6a8abc3cc2ae`](https://github.com/yownas/shift-attention/commit/e0ee6eafbc792d155880b8897d55a06ad0870112)
+</details>
