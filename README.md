@@ -192,3 +192,11 @@ Do the same thing for the extension.
 - WebUI: [`2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/2c1bb46c7ad5b4536f6587d327a03f0ff7811c5d)
 - Extension: [`e0ee6eafbc792d155880b8897d55a06ad0870112`](https://github.com/yownas/shift-attention/commit/e0ee6eafbc792d155880b8897d55a06ad0870112)
 </details>
+
+## https://github.com/AnonymousCervine/depth-image-io-for-SDWebui
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`226d840e84c5f306350b0681945989b86760e616`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/226d840e84c5f306350b0681945989b86760e616)
+- Extension: [`eb22863da52f3cd10d28087b43870f1419178d4c`](https://github.com/AnonymousCervine/depth-image-io-for-SDWebui/commit/eb22863da52f3cd10d28087b43870f1419178d4c)
+</details>
