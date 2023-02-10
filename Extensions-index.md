@@ -513,6 +513,13 @@
 			"tags": ["script", "tab"]
 		},
 		{
+			"name": "Aspect Ratio selector",
+			"url": "https://github.com/alemelis/sd-webui-ar",
+			"description": "Add configurable buttons to change image aspect ratio and resolution.",
+			"added": "2023-02-10",
+			"tags": ["script"]
+		},
+		{
 			"name": "zh_CN Localization",
 			"url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
 			"description": "Simplified Chinese localization",
