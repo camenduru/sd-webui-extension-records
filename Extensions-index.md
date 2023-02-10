@@ -198,6 +198,13 @@
 			"tags": ["script"]
 		},
 		{
+			"name": "prompt fusion",
+			"url": "https://github.com/ljleb/prompt-fusion-extension.git",
+			"description": "Extends prompt editing syntax with different types of embedding interpolations.",
+			"added": "2023-02-10",
+			"tags": ["script"]
+		},
+		{
 			"name": "Sonar",
 			"url": "https://github.com/Kahsolt/stable-diffusion-webui-sonar.git",
 			"description": "Improve the generated image quality, searches for similar (yet even better!) images in the neighborhood of some known image, focuses on single prompt optimization rather than traveling between multiple prompts.",

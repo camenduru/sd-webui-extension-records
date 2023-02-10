@@ -208,3 +208,13 @@ Do the same thing for the extension.
 - WebUI: [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
 - Extension: [`a580c34aa7764f9ffb88bc64d4de92a67f3364d8`](https://github.com/alemelis/sd-webui-ar/commit/a580c34aa7764f9ffb88bc64d4de92a67f3364d8)
 </details>
+
+## https://github.com/ljleb/prompt-fusion-extension
+<details>
+<summary>tested with: (Click to exapand:)</summary>
+
+- WebUI:
+  - [`v1.0.0-pre`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.0.0-pre)
+  - [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
+- Extension: [`fb4c72220b119808ae5021f1aaae017faa47c1c9`](https://github.com/ljleb/prompt-fusion-extension/commit/fb4c72220b119808ae5021f1aaae017faa47c1c9)
+</details>
