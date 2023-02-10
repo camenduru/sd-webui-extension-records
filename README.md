@@ -200,3 +200,11 @@ Do the same thing for the extension.
 - WebUI: [`226d840e84c5f306350b0681945989b86760e616`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/226d840e84c5f306350b0681945989b86760e616)
 - Extension: [`eb22863da52f3cd10d28087b43870f1419178d4c`](https://github.com/AnonymousCervine/depth-image-io-for-SDWebui/commit/eb22863da52f3cd10d28087b43870f1419178d4c)
 </details>
+
+## https://github.com/alemelis/sd-webui-ar
+<details>
+<summary>tested with: (Click to exapand:)</summary>
+
+- WebUI: [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
+- Extension: [`a580c34aa7764f9ffb88bc64d4de92a67f3364d8`](https://github.com/alemelis/sd-webui-ar/commit/a580c34aa7764f9ffb88bc64d4de92a67f3364d8)
+</details>
