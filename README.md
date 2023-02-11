@@ -218,3 +218,14 @@ Do the same thing for the extension.
   - [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
 - Extension: [`fb4c72220b119808ae5021f1aaae017faa47c1c9`](https://github.com/ljleb/prompt-fusion-extension/commit/fb4c72220b119808ae5021f1aaae017faa47c1c9)
 </details>
+
+
+## https://github.com/dr413677671/PromptGallery-stable-diffusion-webui
+<details>
+<summary>tested with: (Click to exapand:)</summary>
+
+- WebUI:
+  - [`master`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master)
+  - [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
+- Extension: [`f2375cfa241ca2bb473e6422a90c7262cca1eb0e`](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui/commit/f2375cfa241ca2bb473e6422a90c7262cca1eb0e)
+</details>
