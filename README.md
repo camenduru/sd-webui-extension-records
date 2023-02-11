@@ -203,7 +203,7 @@ Do the same thing for the extension.
 
 ## https://github.com/alemelis/sd-webui-ar
 <details>
-<summary>tested with: (Click to exapand:)</summary>
+<summary>tested with: (Click to expand:)</summary>
 
 - WebUI: [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
 - Extension: [`a580c34aa7764f9ffb88bc64d4de92a67f3364d8`](https://github.com/alemelis/sd-webui-ar/commit/a580c34aa7764f9ffb88bc64d4de92a67f3364d8)
@@ -211,7 +211,7 @@ Do the same thing for the extension.
 
 ## https://github.com/ljleb/prompt-fusion-extension
 <details>
-<summary>tested with: (Click to exapand:)</summary>
+<summary>tested with: (Click to expand:)</summary>
 
 - WebUI:
   - [`v1.0.0-pre`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.0.0-pre)
@@ -222,10 +222,18 @@ Do the same thing for the extension.
 
 ## https://github.com/dr413677671/PromptGallery-stable-diffusion-webui
 <details>
-<summary>tested with: (Click to exapand:)</summary>
+<summary>tested with: (Click to expand:)</summary>
 
 - WebUI:
-  - [`master`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master)
+  - [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
   - [`4af3ca5393151d61363c30eef4965e694eeac15e`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4af3ca5393151d61363c30eef4965e694eeac15e)
 - Extension: [`f2375cfa241ca2bb473e6422a90c7262cca1eb0e`](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui/commit/f2375cfa241ca2bb473e6422a90c7262cca1eb0e)
+</details>
+
+## https://github.com/toshiaki1729/stable-diffusion-webui-text2prompt
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
+- Extension: [`f45016a4d152b5b2528c0ee179545ac820c3b0e7`](https://github.com/toshiaki1729/stable-diffusion-webui-text2prompt/commit/f45016a4d152b5b2528c0ee179545ac820c3b0e7)
 </details>
