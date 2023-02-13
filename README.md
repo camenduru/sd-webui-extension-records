@@ -45,15 +45,29 @@ Do the same thing for the extension.
 <details>
 <summary>tested with: (Click to expand:)</summary>
 
+ <details>
+ <summary>older versions</summary>
+ 
 - WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/6c7a50d783c4e406d8597f9cf354bb8128026f6c
 - Extension: https://github.com/AlUlkesh/sd_dpmpp_sde_no_random/commit/4185896e511cc24c92a319341c491dc50bdf435a
+ </details>
+
+- WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256
+- Extension: https://github.com/AlUlkesh/sd_dpmpp_sde_no_random/commit/f38f0c628ff04ea18b3a8ccfcc68a5d422422e0a
 </details>
 
 ## https://github.com/AlUlkesh/sd_grid_add_image_number
 <details>
 <summary>tested with: (Click to expand:)</summary>
 
+ <details>
+ <summary>older versions</summary>
+ 
 - WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/6c7a50d783c4e406d8597f9cf354bb8128026f6c
+- Extension: https://github.com/AlUlkesh/sd_grid_add_image_number/commit/7356c57ce931dc2521fa56718ab8804127c55dd7
+ </details>
+
+- WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256
 - Extension: https://github.com/AlUlkesh/sd_grid_add_image_number/commit/7356c57ce931dc2521fa56718ab8804127c55dd7
 </details>
 
@@ -61,16 +75,40 @@ Do the same thing for the extension.
 <details>
 <summary>tested with: (Click to expand:)</summary>
 
+ <details>
+ <summary>older versions</summary>
+ 
 - WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/6c7a50d783c4e406d8597f9cf354bb8128026f6c
 - Extension: https://github.com/AlUlkesh/sd_save_intermediate_images/commit/0faf746f9eaa6653d2c59150cb97531411f9828a
+ </details>
+
+ - WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256
+- Extension: https://github.com/AlUlkesh/sd_save_intermediate_images/commit/929fa07a558cb92c5e84e58ac14648f8e8e972d8
 </details>
 
 ## https://github.com/AlUlkesh/sd_search_model
 <details>
 <summary>tested with: (Click to expand:)</summary>
 
+ <details>
+ <summary>older versions</summary>
+ 
 - WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/6c7a50d783c4e406d8597f9cf354bb8128026f6c
 - Extension: https://github.com/AlUlkesh/sd_search_model/commit/65e9b42571ffa28f3a3444a45cab30ea14a3ccac
+ </details>
+ 
+- WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256
+- Extension: https://github.com/AlUlkesh/sd_search_model/commit/07258419b9752070bb798380e61d55d837206097
+</details>
+
+</details>
+
+## https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256
+- Extension: https://github.com/AlUlkesh/stable-diffusion-webui-images-browser/commit/962c67a773db2ad0d022c7cf467fa7d6e2ee326b
 </details>
 
 ## https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https
