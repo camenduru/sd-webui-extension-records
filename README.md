@@ -275,3 +275,11 @@ Do the same thing for the extension.
 - WebUI: [`ea9bd9fc7409109adcd61b897abc2c8881161256`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/ea9bd9fc7409109adcd61b897abc2c8881161256)
 - Extension: [`f45016a4d152b5b2528c0ee179545ac820c3b0e7`](https://github.com/toshiaki1729/stable-diffusion-webui-text2prompt/commit/f45016a4d152b5b2528c0ee179545ac820c3b0e7)
 </details>
+
+## https://github.com/tkalayci71/embedding-inspector
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- [WebUI `3715ece0adce7bf7c5e9c5ab3710b2fdc3848f39`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece0adce7bf7c5e9c5ab3710b2fdc3848f39)
+- [Extension `5489015b73160c2a7083a8403c1be7adae797bc2`](https://github.com/tkalayci71/embedding-inspector/commit/5489015b73160c2a7083a8403c1be7adae797bc2)
+</details>
