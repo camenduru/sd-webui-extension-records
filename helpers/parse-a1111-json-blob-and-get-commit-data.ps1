@@ -18,6 +18,8 @@
 ############# Configure these #############
 
 $gitPath = "C:\Program Files\Git\bin\git.exe"
+
+# where you want the output to go
 $csvPath = "C:\temp\converted_data.csv"
 
 ###########################################
