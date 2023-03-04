@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GitHub Commit Preview</title>
+	<script>
+		function generatePreview() {
+			// Read input values
+			var url = document.getElementById("url").value;
+			var projectCommit = document.getElementById("projectCommit").value;
+			var webuiCommit = document.getElementById("webuiCommit").value;
+
+			// Extract commit hashes
+			function extractCommitHash(commitUrl) {
+				var pattern = /(?<=\/commit\/)[a-f0-9]{40}/;
+				var match = commitUrl.match(pattern);
+				if (match) {
+					return match[0];
+				} else {
+					return commitUrl;
+				}
+			}
+			var webuiCommitHash = extractCommitHash(webuiCommit);
+			var projectCommitHash = extractCommitHash(projectCommit);
+
+			// Generate preview
+			var preview = document.getElementById("preview");
+			var markdown = "## " + url + "\n";
+			markdown += "<details><summary>tested with: (Click to expand:)</summary>\n\n";
+			markdown += `- [WebUI \`${webuiCommitHash}\`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/${webuiCommitHash})\n`;
+			markdown += `- [Extension \`${projectCommitHash}\`](${url}/tree/${projectCommitHash})\n\n`;
+			markdown += "</details>";
+			preview.textContent = markdown;
+		}
+	</script>
+	<style>
+		input[type="text"] {
+			width: 75%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			box-sizing: border-box;
+			border: 2px solid #ccc;
+			border-radius: 4px;
+			resize: none;
+		}
+		#preview {
+			width: 75%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			box-sizing: border-box;
+			border: 2px solid #ccc;
+			border-radius: 4px;
+			overflow: auto;
+			white-space: pre-wrap;
+			font-family: monospace;
+			font-size: 16px;
+		}
+	</style>
+</head>
+<body>
+	<h1>GitHub Commit Preview</h1>
+	<p>Enter the project URL, the commit hash or commit URL for the working project, and the commit hash or commit URL for the working WebUI:</p>
+	<form>
+		<label for="url">Project URL:</label>
+		<input type="text" id="url" name="url"><br>
+
+		<label for="projectCommit">Project Commit:</label>
+		<input type="text" id="projectCommit" name="projectCommit"><br>
+
+		<label for="webuiCommit">WebUI Commit:</label>
+		<input type="text" id="webuiCommit" name="webuiCommit"><br>
+
+		<input type="button" value="Generate Preview" onclick="generatePreview()">
+	</form>
+	<div id="preview"></div>
+</body>
+</html>
