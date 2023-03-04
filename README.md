@@ -283,3 +283,11 @@ Do the same thing for the extension.
 - [WebUI `3715ece0adce7bf7c5e9c5ab3710b2fdc3848f39`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece0adce7bf7c5e9c5ab3710b2fdc3848f39)
 - [Extension `5489015b73160c2a7083a8403c1be7adae797bc2`](https://github.com/tkalayci71/embedding-inspector/commit/5489015b73160c2a7083a8403c1be7adae797bc2)
 </details>
+
+## https://github.com/CurtisDS/sd-model-preview-xd
+<details>
+<summary>tested with: (Click to expand:)</summary>
+
+- [WebUI `0cc0ee1bcb4c24a8c9715f66cede06601bfc00c8`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/0cc0ee1bcb4c24a8c9715f66cede06601bfc00c8)
+- [Extension `cc4dc9460c4178956dc21b51eebc22f899586f83`](https://github.com/CurtisDS/sd-model-preview-xd/commit/cc4dc9460c4178956dc21b51eebc22f899586f83)
+</details>
