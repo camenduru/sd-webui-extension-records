@@ -7,16 +7,19 @@
 ####>
 
 # Ask for the project URL
-$url = Read-Host "Enter the project URL (e.g. https://github.com/myusername/myproject)"
+write-host "Enter the project URL (e.g. https://github.com/myusername/myproject)"
+$url = Read-Host "> "
 
 # Remove trailing slash if it exists
 $url = $url.TrimEnd('/')
 
 # Ask for the commit hash or commit URL for the working project
-$projectCommit = Read-Host "Enter the commit hash or commit URL for the working project (e.g. abc1234 or https://github.com/myusername/myproject/commit/abc1234)"
+write-host "`nEnter the commit hash (full one is fine) or commit URL for the working project (e.g. abc1234 or https://github.com/myusername/myproject/commit/abc1234)"
+$projectCommit = Read-Host "> "
 
 # Ask for the commit hash or commit URL for the working WebUI
-$webuiCommit = Read-Host "Enter the commit hash or commit URL for the working Automatic1111 WebUI (e.g. abc1234 or https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/abc1234)"
+write-host "`nEnter the commit hash (full one is fine) or commit URL for the working Automatic1111 WebUI (e.g. abc1234 or https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/abc1234)"
+$webuiCommit = Read-Host "> "
 
 # Extract the commit hash from the end of the GitHub commit URL
 function ExtractCommitHash($commitUrl) {
