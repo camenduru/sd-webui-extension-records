@@ -170,8 +170,8 @@ Do the same thing for the extension.
 <details>
 <summary>tested with: (Click to expand:)</summary>
 
-- WebUI: [`0792fae078ba362a5119f56d84e3f490a88690ae`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/0792fae078ba362a5119f56d84e3f490a88690ae)
-- Extension: [`d993cc83057e6e5b2f41c26935c52d464708215a`](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor/commit/d993cc83057e6e5b2f41c26935c52d464708215a)
+- WebUI: [`0cc0ee1bcb4c24a8c9715f66cede06601bfc00c8`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/0cc0ee1bcb4c24a8c9715f66cede06601bfc00c8)
+- Extension: [`2406fc8139d4fb727c50ab55af180b530f0e3858`](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor/commit/2406fc8139d4fb727c50ab55af180b530f0e3858)
 </details>
 
 ## https://github.com/KutsuyaYuki/ABG_extension
