@@ -181,8 +181,8 @@ Note: Most Recent at bottom
   
 WebUI | Extension
 --- | ---
- [`22bcc7be428c94e9408f589966c2040187245d81`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/22bcc7be428c94e9408f589966c2040187245d81) | [`01cd0ff0d0a485c666d957ad967ef31a2c1f22df`](https://github.com/KutsuyaYuki/ABG_extension/commit/01cd0ff0d0a485c666d957ad967ef31a2c1f22df)
  [`c98cb0f8ecc904666f47684e238dd022039ca16f`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/c98cb0f8ecc904666f47684e238dd022039ca16f) | [`1426fde1794dc134021a19237a5c55baa77e03bc`](https://github.com/KutsuyaYuki/ABG_extension/commit/1426fde1794dc134021a19237a5c55baa77e03bc)
+ [`22bcc7be428c94e9408f589966c2040187245d81`](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/22bcc7be428c94e9408f589966c2040187245d81) | [`01cd0ff0d0a485c666d957ad967ef31a2c1f22df`](https://github.com/KutsuyaYuki/ABG_extension/commit/01cd0ff0d0a485c666d957ad967ef31a2c1f22df)
 
 </details>
 
